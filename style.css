@@ -1,1 +1,6 @@
-
+#left {
+  position:absolute;
+  left: 4px;
+  background-color: #d3d3d3;
+  font-family:sans-serif;
+}
